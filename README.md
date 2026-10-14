@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello ! Bonjour !
+
+I am Eulalie Delaune. 
+
+I am a time series methodologist. I work with @annamsyk on Time Series Decomposition and Seasonal Adjustment at Insee, in France, and mainly on the https://github.com/jdemetra software.
+
+
 
 <!--
 **edln6/edln6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
