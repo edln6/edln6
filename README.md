@@ -2,7 +2,7 @@
 
 I am Eulalie Delaune. 
 
-I am a time series methodologist. I work with [Anna Smyk](https://github.com/annasmyk) on Time Series Decomposition and Seasonal Adjustment at Insee, in France, and mainly on [JDemetra+](https://github.com/jdemetra) software.
+I am a time series methodologist. I work with [Anna Smyk](https://github.com/annasmyk) on Time Series Analysis, especially Seasonal Adjustment at Insee, in France, and mainly on [JDemetra+](https://github.com/jdemetra) software. I am a part of the [COSA project](https://cosa-grant.org/).
 
 My role is to maintain, improve and document these R packages linked to JDemetra+:
 
